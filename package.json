@@ -2,6 +2,7 @@
   "name": "keep-active-group-active",
   "displayName": "keep-active-group-active",
   "description": "Commands to open existing text editors in the active editor group",
+  "publisher": "jonathanjameswatson",
   "version": "0.0.1",
   "homepage": "https://github.com/jonathanjameswatson/keep-active-group-active",
   "repository": {
