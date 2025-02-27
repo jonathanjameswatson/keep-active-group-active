@@ -1,8 +1,13 @@
 {
   "name": "keep-active-group-active",
   "displayName": "keep-active-group-active",
-  "description": "Commands to open existing editors in the active editor group",
+  "description": "Commands to open existing text editors in the active editor group",
   "version": "0.0.1",
+  "homepage": "https://github.com/jonathanjameswatson/keep-active-group-active",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanjameswatson/keep-active-group-active"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
